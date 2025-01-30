@@ -1,6 +1,6 @@
 # RealSense Depth Sensing Object Detection with YOLOv5
 
-<img src="https://github.com/aymanT122R/Object_Detection_Distance_Estimation/blob/main/simulation.jpg" width="100%">
+<img src="https://github.com/aymanT122R/Object_Detection_Distance_Estimation/blob/main/simul.png" width="100%">
 
 ## 🎯  Features
 
