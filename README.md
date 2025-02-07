@@ -48,6 +48,7 @@ $ python depthScale_realsense.py
 This project is licensed under the MIT License.
 ## 📧 Contact
 👤 Ayman Tounsi
+
 📧 Email: ayman.tounsi12@gmail.com
 
 
